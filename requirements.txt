@@ -76,5 +76,5 @@ urllib3==1.26.2
 uWSGI==2.0.20
 virtualenv==20.10.0
 webencodings==0.5.1
-Werkzeug==2.0.0
+Werkzeug==2.2.3
 wrapt==1.12.1
